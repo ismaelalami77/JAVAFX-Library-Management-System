@@ -4,7 +4,7 @@ This is a simple Library Management System built with JavaFX and ArrayList for m
 
 ## Features
 
-- Load books from a text file (`books.txt`)
+- Load books from a text file
 - Display books in a TableView
 - Add new book records
 - Delete books by BookID
@@ -16,7 +16,7 @@ This is a simple Library Management System built with JavaFX and ArrayList for m
   - Year with maximum/minimum books published
   - Author with maximum/minimum books published
   - Check if an author is still active (published in last 5 years)
-- Save updated data to `updatedBooks.txt`
+- Save updated data
 - Sort books by Title, Author, or Published Year
 - Edit book records
 
